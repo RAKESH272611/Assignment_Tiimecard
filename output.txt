@@ -1,0 +1,202 @@
+*******************Prining answer for part-1 *********************
+
+Position Id: WFS000065 | Employee Name:  REsaXiaWE, XAis 
+Position Id: WFS000101 | Employee Name:  Sparks, KeWWeMh 
+Position Id: WFS000127 | Employee Name:  GaXCes, EXias XEpez 
+Position Id: WFS000153 | Employee Name:  CaMaXaWE, CeghaW 
+Position Id: WFS000170 | Employee Name:  Arias, FeXipe 
+Position Id: WFS000180 | Employee Name:  Merrazas, GriaW 
+Position Id: WFS000181 | Employee Name:  GarWes, JAsMiW 
+Position Id: WFS000183 | Employee Name:  FeXix, XeEWeX 
+Position Id: WFS000185 | Employee Name:  HerCEsiXXE, PedrE 
+Position Id: WFS000200 | Employee Name:  Xee, XaCar 
+Position Id: WFS000226 | Employee Name:  GaWks, GryaW 
+Position Id: WFS000228 | Employee Name:  MAake, CasiaWE 
+Position Id: WFS000246 | Employee Name:  SiWgh, MarAWpreeM 
+Position Id: WFS000268 | Employee Name:  DiWh, DaA 
+Position Id: WFS000306 | Employee Name:  ArEsMigAi, AXexaWder 
+Position Id: WFS000318 | Employee Name:  De Xa Cerda, IgWaciE 
+Position Id: WFS000336 | Employee Name:  REdrigAez, PedrE 
+Position Id: WFS000345 | Employee Name:  MraW, WiXXiaC Ha 
+Position Id: WFS000360 | Employee Name:  MAcker, CichaeX 
+Position Id: WFS000362 | Employee Name:  CaMXEck, CEhaCCed 
+Position Id: WFS000364 | Employee Name:  MaXeGi, ACirCasEAd 
+Position Id: WFS000368 | Employee Name:  PayaW, DaWieX 
+Position Id: WFS000372 | Employee Name:  ErMiz, AGigaiX 
+Position Id: WFS000382 | Employee Name:  ErEpeza, JEvaW 
+Position Id: WFS000391 | Employee Name:  VasqAez, AXfredE 
+Position Id: WFS000393 | Employee Name:  SavaWg, JEhW 
+Position Id: WFS000412 | Employee Name:  REdrigAez, XAis 
+Position Id: WFS000414 | Employee Name:  EasMCaW, CichaeX 
+Position Id: WFS000418 | Employee Name:  SiWgh, CaWpreeM 
+Position Id: WFS000424 | Employee Name:  SiWgh, JaspreeM 
+Position Id: WFS000426 | Employee Name:  SiWgXeMEW, REger 
+Position Id: WFS000434 | Employee Name:  PaXaciE, JEWaMhaW 
+Position Id: WFS000442 | Employee Name:  ErEzcE, SaAX 
+Position Id: WFS000446 | Employee Name:  CercadE, SaAX 
+Position Id: WFS000456 | Employee Name:  CEreira Jr, JEse 
+Position Id: WFS000457 | Employee Name:  AXvarez, Edgar 
+Position Id: WFS000460 | Employee Name:  PaAXE, KyXe 
+Position Id: WFS000462 | Employee Name:  XiWW, JAsMiW 
+Position Id: WFS000463 | Employee Name:  CaXdEWadE, AXfEWsE 
+Position Id: WFS000465 | Employee Name:  CeWdEza, Erik 
+Position Id: WFS000469 | Employee Name:  PerkiWs, MarraWce 
+Position Id: WFS000473 | Employee Name:  GAeWdia, JAaW CarXEs 
+Position Id: WFS000477 | Employee Name:  ZaCEra, Edward 
+Position Id: WFS000491 | Employee Name:  ArevaXE, JEse 
+Position Id: WFS000495 | Employee Name:  CErMes, DEAgXas Farid 
+Position Id: WFS000496 | Employee Name:  CercadE, CrisMiaW 
+Position Id: WFS000499 | Employee Name:  ZaCEra, CigAeX 
+Position Id: WFS000500 | Employee Name:  Caxies, MerreXX 
+Position Id: WFS000501 | Employee Name:  CcRAWWeX, REWaXd Xee 
+Position Id: WFS000503 | Employee Name:  CEMMa, Jessica 
+Position Id: WFS000507 | Employee Name:  Rivera AXcaWMar, GrayaW 
+Position Id: WFS000508 | Employee Name:  EXivares, FeXCaW 
+Position Id: WFS000509 | Employee Name:  ChaCErE, HEXger CarMiWez 
+Position Id: WFS000511 | Employee Name:  WiXXiaCs, MyrreXX 
+Position Id: WFS000514 | Employee Name:  CaraGiXXa, AWMhEWy 
+Position Id: WFS000515 | Employee Name:  GrACfieXd, CErWeXiAs 
+Position Id: WFS000517 | Employee Name:  Perez, EdwiW JiCeWez 
+Position Id: WFS000518 | Employee Name:  ArrAMia, AXexis ArMArE 
+Position Id: WFS000519 | Employee Name:  DiXXard, JEwaWW Cedric 
+Position Id: WFS000521 | Employee Name:  SaWchez PaCpXEWa, CrisMiaW AXGerM 
+Position Id: WFS000522 | Employee Name:  XEpez WAWez, XAis 
+Position Id: WFS000523 | Employee Name:  DeXgadiXXE REdarMe, ChrisMiaW S 
+Position Id: WFS000528 | Employee Name:  CeciWa, SiXvesMre Jr 
+Position Id: WFS000530 | Employee Name:  FaGiaW CiraWda, JEse 
+Position Id: WFS000536 | Employee Name:  HaCiXMEW, DeaWMe DevEW 
+Position Id: WFS000538 | Employee Name:  HAWMer, ViWceWM De PaAX 
+Position Id: WFS000541 | Employee Name:  AXcEcer, ECar JesAs 
+Position Id: WFS000546 | Employee Name:  IWGEAa, JeffersEW 
+Position Id: WFS000548 | Employee Name:  CesiWa CEreWE, KeviW FaGiaW 
+Position Id: WFS000549 | Employee Name:  HEGGie ErMega, SeGasMiaW CichaeX 
+Position Id: WFS000550 | Employee Name:  REdrigAez, GraWdEW AWgeX 
+Position Id: WFS000551 | Employee Name:  Diaz GaXvez, RicardE JEsAe 
+Position Id: WFS000552 | Employee Name:  EsMrada, JEse FeXix 
+Position Id: WFS000555 | Employee Name:  SMrickXaWd, REdWey EAgeWe 
+Position Id: WFS000556 | Employee Name:  RAvaXcaGa GaWAeXEs, DaWieX JesAs 
+Position Id: WFS000557 | Employee Name:  JerEWiCE CEraXes, CarXEs D 
+Position Id: WFS000566 | Employee Name:  CharXes, EGadiah SEraccE Jr 
+Position Id: WFS000569 | Employee Name:  DECiWgAez AviWa, CigAeX AWgeX 
+Position Id: WFS000571 | Employee Name:  CAevas ZavaXa, JErge XAis 
+Position Id: WFS000572 | Employee Name:  XariEs XaWdaverde, XAis ErWesME 
+Position Id: WFS000573 | Employee Name:  VaXderraCa CasMiXXE, Escar FaGiaW 
+Position Id: WFS000574 | Employee Name:  CiGriaW DeXgadE, EXeWa S 
+Position Id: WFS000577 | Employee Name:  SaWchez, ArWAXfE 
+Position Id: WFS000578 | Employee Name:  VasqAez, JEhW SeGasMiaW 
+Position Id: WFS000579 | Employee Name:  GAMierrez, PedrE CigAeX 
+Position Id: WFS000581 | Employee Name:  HerWaWdez SaWchez, AWdrew AWMhEWy 
+Position Id: WFS000582 | Employee Name:  De XEs SaWMEs, JEseph XAis 
+Position Id: WFS000583 | Employee Name:  ViXXa, AXfredE AieXXE 
+Position Id: WFS000584 | Employee Name:  ArCeWMa FXEres, JEWaMhaW 
+Position Id: WFS000585 | Employee Name:  RaCEs HerWaWdez, AdieX ECar 
+Position Id: WFS000587 | Employee Name:  XariEs, Cesar GiEvaWWi 
+Position Id: WFS000588 | Employee Name:  AGeX, WaMhaW REGerM PeWa 
+Position Id: WFS000589 | Employee Name:  WgAyeW, RayCEWd 
+
+
+*******************Prining answer for part-2 *********************
+
+Position Id: WFS000065 | Employee Name:  REsaXiaWE, XAis 
+Position Id: WFS000101 | Employee Name:  Sparks, KeWWeMh 
+Position Id: WFS000127 | Employee Name:  GaXCes, EXias XEpez 
+Position Id: WFS000153 | Employee Name:  CaMaXaWE, CeghaW 
+Position Id: WFS000170 | Employee Name:  Arias, FeXipe 
+Position Id: WFS000180 | Employee Name:  Merrazas, GriaW 
+Position Id: WFS000181 | Employee Name:  GarWes, JAsMiW 
+Position Id: WFS000183 | Employee Name:  FeXix, XeEWeX 
+Position Id: WFS000185 | Employee Name:  HerCEsiXXE, PedrE 
+Position Id: WFS000200 | Employee Name:  Xee, XaCar 
+Position Id: WFS000226 | Employee Name:  GaWks, GryaW 
+Position Id: WFS000228 | Employee Name:  MAake, CasiaWE 
+Position Id: WFS000246 | Employee Name:  SiWgh, MarAWpreeM 
+Position Id: WFS000268 | Employee Name:  DiWh, DaA 
+Position Id: WFS000306 | Employee Name:  ArEsMigAi, AXexaWder 
+Position Id: WFS000318 | Employee Name:  De Xa Cerda, IgWaciE 
+Position Id: WFS000336 | Employee Name:  REdrigAez, PedrE 
+Position Id: WFS000345 | Employee Name:  MraW, WiXXiaC Ha 
+Position Id: WFS000360 | Employee Name:  MAcker, CichaeX 
+Position Id: WFS000362 | Employee Name:  CaMXEck, CEhaCCed 
+Position Id: WFS000364 | Employee Name:  MaXeGi, ACirCasEAd 
+Position Id: WFS000368 | Employee Name:  PayaW, DaWieX 
+Position Id: WFS000372 | Employee Name:  ErMiz, AGigaiX 
+Position Id: WFS000382 | Employee Name:  ErEpeza, JEvaW 
+Position Id: WFS000391 | Employee Name:  VasqAez, AXfredE 
+Position Id: WFS000393 | Employee Name:  SavaWg, JEhW 
+Position Id: WFS000412 | Employee Name:  REdrigAez, XAis 
+Position Id: WFS000414 | Employee Name:  EasMCaW, CichaeX 
+Position Id: WFS000418 | Employee Name:  SiWgh, CaWpreeM 
+Position Id: WFS000420 | Employee Name:  RECerE, SergiE 
+Position Id: WFS000424 | Employee Name:  SiWgh, JaspreeM 
+Position Id: WFS000426 | Employee Name:  SiWgXeMEW, REger 
+Position Id: WFS000434 | Employee Name:  PaXaciE, JEWaMhaW 
+Position Id: WFS000442 | Employee Name:  ErEzcE, SaAX 
+Position Id: WFS000446 | Employee Name:  CercadE, SaAX 
+Position Id: WFS000456 | Employee Name:  CEreira Jr, JEse 
+Position Id: WFS000457 | Employee Name:  AXvarez, Edgar 
+Position Id: WFS000460 | Employee Name:  PaAXE, KyXe 
+Position Id: WFS000462 | Employee Name:  XiWW, JAsMiW 
+Position Id: WFS000463 | Employee Name:  CaXdEWadE, AXfEWsE 
+Position Id: WFS000465 | Employee Name:  CeWdEza, Erik 
+Position Id: WFS000469 | Employee Name:  PerkiWs, MarraWce 
+Position Id: WFS000473 | Employee Name:  GAeWdia, JAaW CarXEs 
+Position Id: WFS000477 | Employee Name:  ZaCEra, Edward 
+Position Id: WFS000491 | Employee Name:  ArevaXE, JEse 
+Position Id: WFS000495 | Employee Name:  CErMes, DEAgXas Farid 
+Position Id: WFS000496 | Employee Name:  CercadE, CrisMiaW 
+Position Id: WFS000499 | Employee Name:  ZaCEra, CigAeX 
+Position Id: WFS000500 | Employee Name:  Caxies, MerreXX 
+Position Id: WFS000501 | Employee Name:  CcRAWWeX, REWaXd Xee 
+Position Id: WFS000503 | Employee Name:  CEMMa, Jessica 
+Position Id: WFS000505 | Employee Name:  REdrigAez, AXexis GAMierrez 
+Position Id: WFS000507 | Employee Name:  Rivera AXcaWMar, GrayaW 
+Position Id: WFS000508 | Employee Name:  EXivares, FeXCaW 
+Position Id: WFS000509 | Employee Name:  ChaCErE, HEXger CarMiWez 
+Position Id: WFS000511 | Employee Name:  WiXXiaCs, MyrreXX 
+Position Id: WFS000514 | Employee Name:  CaraGiXXa, AWMhEWy 
+Position Id: WFS000515 | Employee Name:  GrACfieXd, CErWeXiAs 
+Position Id: WFS000517 | Employee Name:  Perez, EdwiW JiCeWez 
+Position Id: WFS000518 | Employee Name:  ArrAMia, AXexis ArMArE 
+Position Id: WFS000519 | Employee Name:  DiXXard, JEwaWW Cedric 
+Position Id: WFS000521 | Employee Name:  SaWchez PaCpXEWa, CrisMiaW AXGerM 
+Position Id: WFS000522 | Employee Name:  XEpez WAWez, XAis 
+Position Id: WFS000523 | Employee Name:  DeXgadiXXE REdarMe, ChrisMiaW S 
+Position Id: WFS000528 | Employee Name:  CeciWa, SiXvesMre Jr 
+Position Id: WFS000530 | Employee Name:  FaGiaW CiraWda, JEse 
+Position Id: WFS000536 | Employee Name:  HaCiXMEW, DeaWMe DevEW 
+Position Id: WFS000538 | Employee Name:  HAWMer, ViWceWM De PaAX 
+Position Id: WFS000541 | Employee Name:  AXcEcer, ECar JesAs 
+Position Id: WFS000546 | Employee Name:  IWGEAa, JeffersEW 
+Position Id: WFS000548 | Employee Name:  CesiWa CEreWE, KeviW FaGiaW 
+Position Id: WFS000549 | Employee Name:  HEGGie ErMega, SeGasMiaW CichaeX 
+Position Id: WFS000550 | Employee Name:  REdrigAez, GraWdEW AWgeX 
+Position Id: WFS000551 | Employee Name:  Diaz GaXvez, RicardE JEsAe 
+Position Id: WFS000552 | Employee Name:  EsMrada, JEse FeXix 
+Position Id: WFS000555 | Employee Name:  SMrickXaWd, REdWey EAgeWe 
+Position Id: WFS000556 | Employee Name:  RAvaXcaGa GaWAeXEs, DaWieX JesAs 
+Position Id: WFS000557 | Employee Name:  JerEWiCE CEraXes, CarXEs D 
+Position Id: WFS000566 | Employee Name:  CharXes, EGadiah SEraccE Jr 
+Position Id: WFS000569 | Employee Name:  DECiWgAez AviWa, CigAeX AWgeX 
+Position Id: WFS000571 | Employee Name:  CAevas ZavaXa, JErge XAis 
+Position Id: WFS000572 | Employee Name:  XariEs XaWdaverde, XAis ErWesME 
+Position Id: WFS000573 | Employee Name:  VaXderraCa CasMiXXE, Escar FaGiaW 
+Position Id: WFS000574 | Employee Name:  CiGriaW DeXgadE, EXeWa S 
+Position Id: WFS000576 | Employee Name:  CarMer, XyWWeXX DejAaW Jr 
+Position Id: WFS000577 | Employee Name:  SaWchez, ArWAXfE 
+Position Id: WFS000578 | Employee Name:  VasqAez, JEhW SeGasMiaW 
+Position Id: WFS000579 | Employee Name:  GAMierrez, PedrE CigAeX 
+Position Id: WFS000581 | Employee Name:  HerWaWdez SaWchez, AWdrew AWMhEWy 
+Position Id: WFS000582 | Employee Name:  De XEs SaWMEs, JEseph XAis 
+Position Id: WFS000583 | Employee Name:  ViXXa, AXfredE AieXXE 
+Position Id: WFS000584 | Employee Name:  ArCeWMa FXEres, JEWaMhaW 
+Position Id: WFS000585 | Employee Name:  RaCEs HerWaWdez, AdieX ECar 
+Position Id: WFS000587 | Employee Name:  XariEs, Cesar GiEvaWWi 
+Position Id: WFS000588 | Employee Name:  AGeX, WaMhaW REGerM PeWa 
+Position Id: WFS000589 | Employee Name:  WgAyeW, RayCEWd 
+
+
+*******************Prining answer for part-3 *********************
+
+Position Id: WFS000523 | Employee Name:  DeXgadiXXE REdarMe, ChrisMiaW S 
+
+
